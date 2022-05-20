@@ -10,6 +10,7 @@
 The program is a simple GUI Powered by **Unity** that allows users to plot mathematical functions given in certain rules.
 ## Main Flow
 The program starts with a login screen where the user is prompted to type his/her name and then proceed to the main screen. One can then type in a mathematical function of one variable and click **Plot!**
+The program will remember the user if the application was closed and re-opened as long as the user didn't log out.
 ## Technologies used
 The GUI is made by **Unity Engine**.
 The plotting of the function is done by **matplotlib**
