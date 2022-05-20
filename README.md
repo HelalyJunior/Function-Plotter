@@ -3,7 +3,7 @@
 
 # Function Plotter
 
-![alt text](https://github.com/HelalyJunior/TopologyAPI/blob/main/IMAGES/cover.png)
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/cover.png)
 
 
 ## Description
