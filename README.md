@@ -36,6 +36,8 @@ All you need to do to use the API is to extract the ***.RAR*** file and run ***F
 ##
 ![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/5.png)
 ##
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/8.png)
+##
 ![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/6.png)
 ##
 ![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/7.png)
