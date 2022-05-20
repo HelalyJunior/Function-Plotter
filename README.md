@@ -3,7 +3,7 @@
 
 # Function Plotter
 
-![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/cover.png)
+![alt text](https://github.com/HelalyJunior/TopologyAPI/blob/main/IMAGES/cover.png)
 
 
 ## Description
@@ -20,5 +20,24 @@ The program is composed of two main elements.
 The two parts communicate between each other using ***.txt*** files , which can be inefficient but in this simple case , it can be ok to use it.
 ## How to use the Application?
 All you need to do to use the API is to extract the ***.RAR*** file and run ***Function_plotter.exe***
+
+*****Don't*** Close the program while running by ***ALT+F4***, use the exit button , or it will load an old function**.
+## Snapshots from the Application
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/1.png)
+##
+
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/2.png)
+##
+
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/3.png)
+##
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/4.png)
+##
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/5.png)
+##
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/6.png)
+##
+![alt text](https://github.com/HelalyJunior/Function-Plotter/blob/main/IMAGES/7.png)
+##
 
 ## Enjoy !
